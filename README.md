@@ -59,6 +59,7 @@ Our diverse and skilled team is working together to bring the Cooking Chat App t
  
 - **Mihail Donchev**: FrontEnd Developer
   - **Role**: Joined late and contributed minor frontend features
+  - **Profile**: [GitHub](https://github.com/MADNMD)
 
 
 
